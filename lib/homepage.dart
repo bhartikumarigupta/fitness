@@ -371,7 +371,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               "BABYCARE",
                               "A complete guide for your new born baby",
                               "3 mins",
-                              "assets/image/p2.png"),
+                              "assets/image/p1.png"),
                           SizedBox(
                             width: 16,
                           ),
